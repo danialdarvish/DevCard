@@ -8,7 +8,6 @@ C:\Users\ASUS\source\repos\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\DevCard_M
 C:\Users\ASUS\source\repos\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\DevCard_MVC.pdb
 C:\Users\ASUS\source\repos\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\DevCard_MVC.Views.dll
 C:\Users\ASUS\source\repos\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\DevCard_MVC.Views.pdb
-C:\Users\ASUS\source\repos\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\DevCard_MVC.csprojAssemblyReference.cache
 C:\Users\ASUS\source\repos\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\DevCard_MVC.AssemblyInfoInputs.cache
 C:\Users\ASUS\source\repos\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\DevCard_MVC.AssemblyInfo.cs
 C:\Users\ASUS\source\repos\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\DevCard_MVC.csproj.CoreCompileInputs.cache
@@ -108,4 +107,6 @@ C:\Users\ASUS\source\repos\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\ru\Micros
 C:\Users\ASUS\source\repos\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\ASUS\source\repos\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\ASUS\source\repos\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\ASUS\source\repos\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Projects.cshtml.g.cs
+C:\Users\ASUS\source\repos\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Components\Projects\_Projects.cshtml.g.cs
+C:\Users\ASUS\source\repos\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\DevCard_MVC.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\LatestArticles\_LatestArticles.cshtml.g.cs
