@@ -110,3 +110,5 @@ C:\Users\ASUS\source\repos\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\zh-Hant\M
 C:\Users\ASUS\source\repos\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Components\Projects\_Projects.cshtml.g.cs
 C:\Users\ASUS\source\repos\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\DevCard_MVC.csprojAssemblyReference.cache
 C:\Users\ASUS\source\repos\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\LatestArticles\_LatestArticles.cshtml.g.cs
+C:\Users\ASUS\source\repos\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Footer.cshtml.g.cs
+C:\Users\ASUS\source\repos\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Header.cshtml.g.cs
